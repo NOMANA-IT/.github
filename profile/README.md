@@ -12,5 +12,5 @@ Liberty Framework also features a native connector for JD Edwards, enabling effi
 - Go to [Liberty Framework](https://github.com/fblettner/liberty-public) for details about our framework
 - Go to [Documentation](https://docs.nomana-it.fr/) for all products documentation, knowledge base...
 - Go to [Repository](https://docs.nomana-it.fr/) for all others products available as public resources
-- Go to [demo][https://liberty.nomana-it.fr/] for testing our framework
+- Go to [demo](https://liberty.nomana-it.fr/) for testing our framework
 
