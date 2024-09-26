@@ -9,4 +9,8 @@ Liberty Framework is a no-code development platform built with cutting-edge tech
 
 Liberty Framework also features a native connector for JD Edwards, enabling efficient management of access rights, segregation of duties, and Oracle license compliance. With its modern architecture, it provides a comprehensive solution to design robust applications in record time.
 
-Check our product on [Liberty](https://pages.github.com/fblettner/liberty-public)
+- Go to [Liberty Framework](https://github.com/fblettner/liberty-public) for details about our framework
+- Go to [Documentation](https://docs.nomana-it.fr/) for all products documentation, knowledge base...
+- Go to [Repository](https://docs.nomana-it.fr/) for all others products available as public resources
+- Go to [demo][https://liberty.nomana-it.fr/] for testing our framework
+
