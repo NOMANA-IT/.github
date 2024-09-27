@@ -1,9 +1,3 @@
-## Hi there 👋
-
-## About us
-### Franck Blettner / Founder of Nomana-IT
-With over two decades of dedicated experience in JD Edwards, I have cultivated a deep expertise, acquired extensive knowledge, and established a robust network of partners within the integration ecosystem surrounding this ERP platform. Throughout this journey, I've honed my skills in crafting intricate architectures, seamless interfaces, leveraging cutting-edge technologies, and ensuring robust security measures. Among my notable achievements is the development of a comprehensive management tool tailored to enhance the security and compliance of Oracle licenses, showcasing my commitment to innovation and excellence in the field.
-
 # Liberty Framework 🚀
 
 Welcome to **Liberty Framework**, a **no-code development platform** designed for rapid and efficient web application creation using the latest in **React**, **Node.js**, and **PostgreSQL** technologies. Whether you're a developer or a non-technical user, Liberty Framework empowers you to build robust applications with **zero coding skills** required.
@@ -168,3 +162,9 @@ This document provides an overview of the functionality and configuration of the
 ---
 
 This configuration enables a scalable, containerized microservice architecture with **Node.js** for application logic, **PostgreSQL** for database management, **pgAdmin** for database administration, **Rundeck** for automation, **Keycloak OIDC** for authentication, and **Filebrowser** for file management. **Traefik** serves as the reverse proxy, handling routing and applying security middleware for all services.
+
+---
+
+##  About us 👋
+### Franck Blettner / Founder of Nomana-IT
+With over two decades of dedicated experience in JD Edwards, I have cultivated a deep expertise, acquired extensive knowledge, and established a robust network of partners within the integration ecosystem surrounding this ERP platform. Throughout this journey, I've honed my skills in crafting intricate architectures, seamless interfaces, leveraging cutting-edge technologies, and ensuring robust security measures. Among my notable achievements is the development of a comprehensive management tool tailored to enhance the security and compliance of Oracle licenses, showcasing my commitment to innovation and excellence in the field.
