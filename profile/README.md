@@ -89,7 +89,7 @@ This document provides an overview of the functionality and configuration of the
 
 ---
 
-## 4. **Airflow Service (`liberty-flow`)** 🛠️
+## 4. **Airflow Service (`liberty-airflow`)** 🛠️
 
 - **Image**: `ghcr.io/fblettner/liberty-airflow:latest`
 - **Security Options**:
